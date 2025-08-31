@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+Flask==3.0.3 
+discord.py==2.4.0
+
